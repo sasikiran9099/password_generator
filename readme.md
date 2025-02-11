@@ -1,7 +1,9 @@
 Password Generator:
+
 Welcome to the Password Generator! This simple Python script aims to help users to generate strong and secure passwords by combining letters, symbols, and numbers. It serves as a project to extend and improve my programming skills.
 
 Objective:
+
 The main objective of this project is to create a tool that allows users to easily generate passwords that are difficult to guess or crack, thereby enhancing their online security.
 
 Features:
